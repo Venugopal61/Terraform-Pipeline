@@ -1,4 +1,4 @@
-providers "aws"{
+provider "aws"{
     region = "us-easr-1"
 }
 
