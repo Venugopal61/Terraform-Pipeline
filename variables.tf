@@ -4,6 +4,7 @@ variables "sns_topic_name"{
 }
 
 variables "instance_type"{
+    
     type= string
     default= "t3a.small"
 }
