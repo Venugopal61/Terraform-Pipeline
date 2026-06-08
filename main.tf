@@ -3,6 +3,7 @@ resource "aws_sns_topic" "example" {
 }
 
 
+
 data "aws_ami" "ubuntu" {
   most_recent = true
 
